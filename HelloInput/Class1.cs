@@ -25,13 +25,13 @@ namespace HelloInput
         {
             var firstNumber = FirstNumber.Get(context);
             var secondNumber = SecondNumber.Get(context);
-            var squaredSum = System.Math.Pow(firstNumber + secondNumber, 2);
-            string message = "The squared sum is "+squaredSum;
+            var result = System.Math.Pow(firstNumber * secondNumber, 2);
+            string message = "The squared product is "+result;
             string caption = "Result:";
             MessageBoxButtons buttons = MessageBoxButtons.OK;
             
             MessageBox.Show(message, caption, buttons);
-            ResultNumber.Set(context, squaredSum);
+            ResultNumber.Set(context, result);
         }
 
     }
