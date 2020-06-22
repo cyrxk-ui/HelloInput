@@ -1,0 +1,6 @@
+C:\Users\Cyril Kuhns\source\repos\HelloInput\HelloInput\bin\Debug\HelloInput.dll
+C:\Users\Cyril Kuhns\source\repos\HelloInput\HelloInput\bin\Debug\HelloInput.pdb
+C:\Users\Cyril Kuhns\source\repos\HelloInput\HelloInput\obj\Debug\HelloInput.csprojAssemblyReference.cache
+C:\Users\Cyril Kuhns\source\repos\HelloInput\HelloInput\obj\Debug\HelloInput.csproj.CoreCompileInputs.cache
+C:\Users\Cyril Kuhns\source\repos\HelloInput\HelloInput\obj\Debug\HelloInput.dll
+C:\Users\Cyril Kuhns\source\repos\HelloInput\HelloInput\obj\Debug\HelloInput.pdb
