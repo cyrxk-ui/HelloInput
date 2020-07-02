@@ -25,8 +25,8 @@ namespace HelloInput
         {
             var firstNumber = FirstNumber.Get(context);
             var secondNumber = SecondNumber.Get(context);
-            var result = System.Math.Pow(firstNumber * secondNumber, 2);
-            string message = "The squared product is "+result;
+            var squaredSum = System.Math.Pow(firstNumber + secondNumber, 2);
+            string message = "The squared sum is "+ squaredSum;
             string caption = "Result:";
             MessageBoxButtons buttons = MessageBoxButtons.OK;
             
