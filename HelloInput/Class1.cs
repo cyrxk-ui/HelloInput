@@ -5,7 +5,6 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using System.Windows.Forms;
 
 namespace HelloInput
 {
@@ -26,11 +25,6 @@ namespace HelloInput
             var firstNumber = FirstNumber.Get(context);
             var secondNumber = SecondNumber.Get(context);
             var result = System.Math.Pow(firstNumber + secondNumber, 2);
-            string message = "The squared sum is "+ result;
-            string caption = "Result:";
-            MessageBoxButtons buttons = MessageBoxButtons.OK;
-            
-            MessageBox.Show(message, caption, buttons);
             ResultNumber.Set(context, result);
         }
 
@@ -53,11 +47,6 @@ namespace HelloInput
             var firstNumber = FirstNumber.Get(context);
             var secondNumber = SecondNumber.Get(context);
             var result = firstNumber + secondNumber;
-            string message = "The sum is " + result;
-            string caption = "Result:";
-            MessageBoxButtons buttons = MessageBoxButtons.OK;
-
-            MessageBox.Show(message, caption, buttons);
             ResultNumber.Set(context, result);
         }
 
