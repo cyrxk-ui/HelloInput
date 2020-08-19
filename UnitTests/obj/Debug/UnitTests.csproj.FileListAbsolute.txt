@@ -1,0 +1,10 @@
+C:\Users\Cyril Kuhns\source\repos\HelloInput\UnitTests\bin\Debug\UnitTests.exe.config
+C:\Users\Cyril Kuhns\source\repos\HelloInput\UnitTests\bin\Debug\UnitTests.exe
+C:\Users\Cyril Kuhns\source\repos\HelloInput\UnitTests\bin\Debug\UnitTests.pdb
+C:\Users\Cyril Kuhns\source\repos\HelloInput\UnitTests\bin\Debug\HelloInput.dll
+C:\Users\Cyril Kuhns\source\repos\HelloInput\UnitTests\bin\Debug\HelloInput.pdb
+C:\Users\Cyril Kuhns\source\repos\HelloInput\UnitTests\obj\Debug\UnitTests.csprojAssemblyReference.cache
+C:\Users\Cyril Kuhns\source\repos\HelloInput\UnitTests\obj\Debug\UnitTests.csproj.CoreCompileInputs.cache
+C:\Users\Cyril Kuhns\source\repos\HelloInput\UnitTests\obj\Debug\UnitTests.csproj.CopyComplete
+C:\Users\Cyril Kuhns\source\repos\HelloInput\UnitTests\obj\Debug\UnitTests.exe
+C:\Users\Cyril Kuhns\source\repos\HelloInput\UnitTests\obj\Debug\UnitTests.pdb
