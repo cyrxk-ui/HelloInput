@@ -19,7 +19,8 @@ namespace HelloInput
         {
             var firstNumber = FirstNumber.Get(context);
             var secondNumber = SecondNumber.Get(context);
-            var result = firstNumber + secondNumber;
+            var helper = new SimpleSumHelper(firstNumber, secondNumber);
+            var result = helper.Execute();
             ResultNumber.Set(context, result);
         }
 

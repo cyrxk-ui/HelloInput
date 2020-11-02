@@ -19,7 +19,8 @@ namespace HelloInput
         {
             var firstNumber = FirstNumber.Get(context);
             var secondNumber = SecondNumber.Get(context);
-            var result = System.Math.Pow(firstNumber + secondNumber, 2);
+            var helper = new SquaredSumHelper(firstNumber, secondNumber);
+            var result = helper.Execute();
             ResultNumber.Set(context, result);
         }
 

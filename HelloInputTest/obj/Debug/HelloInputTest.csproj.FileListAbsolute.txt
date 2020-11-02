@@ -1,0 +1,16 @@
+C:\Users\Cyril Kuhns\source\repos\HelloInput\HelloInputTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Cyril Kuhns\source\repos\HelloInput\HelloInputTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Cyril Kuhns\source\repos\HelloInput\HelloInputTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Cyril Kuhns\source\repos\HelloInput\HelloInputTest\bin\Debug\HelloInputTest.dll
+C:\Users\Cyril Kuhns\source\repos\HelloInput\HelloInputTest\bin\Debug\HelloInputTest.pdb
+C:\Users\Cyril Kuhns\source\repos\HelloInput\HelloInputTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Cyril Kuhns\source\repos\HelloInput\HelloInputTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Cyril Kuhns\source\repos\HelloInput\HelloInputTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Cyril Kuhns\source\repos\HelloInput\HelloInputTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Cyril Kuhns\source\repos\HelloInput\HelloInputTest\obj\Debug\HelloInputTest.csprojAssemblyReference.cache
+C:\Users\Cyril Kuhns\source\repos\HelloInput\HelloInputTest\obj\Debug\HelloInputTest.csproj.CoreCompileInputs.cache
+C:\Users\Cyril Kuhns\source\repos\HelloInput\HelloInputTest\obj\Debug\HelloInputTest.csproj.CopyComplete
+C:\Users\Cyril Kuhns\source\repos\HelloInput\HelloInputTest\obj\Debug\HelloInputTest.dll
+C:\Users\Cyril Kuhns\source\repos\HelloInput\HelloInputTest\obj\Debug\HelloInputTest.pdb
+C:\Users\Cyril Kuhns\source\repos\HelloInput\HelloInputTest\bin\Debug\HelloInput.dll
+C:\Users\Cyril Kuhns\source\repos\HelloInput\HelloInputTest\bin\Debug\HelloInput.pdb
